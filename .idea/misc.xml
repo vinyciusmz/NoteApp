@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/fabio/AndroidStudioProjects/NoteApp/app/src/main/res/xml/root_preferences.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4185" />
+        <entry key="app/src/main/res/drawable/add.xml" value="0.4185" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4185" />
+        <entry key="app/src/main/res/layout/activity_list_notes.xml" value="0.5260416666666666" />
+        <entry key="app/src/main/res/layout/activity_new_note.xml" value="0.5260416666666666" />
       </map>
     </option>
   </component>
