@@ -17,6 +17,7 @@ class NewNoteActivity : AppCompatActivity() {
         binding.btnAdd.setOnClickListener {
             val note = Note(binding.etTitle.text.toString(),binding.etDesc.text.toString())
             NoteSingleton.noteList.add(note)
+            finish()
         }
 
     }

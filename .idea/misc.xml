@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4185" />
         <entry key="app/src/main/res/layout/activity_list_notes.xml" value="0.5260416666666666" />
         <entry key="app/src/main/res/layout/activity_new_note.xml" value="0.5260416666666666" />
+        <entry key="app/src/main/res/layout/note.xml" value="0.30052083333333335" />
       </map>
     </option>
   </component>
